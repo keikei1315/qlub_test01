@@ -1176,10 +1176,10 @@
       background-color: #fff;
       z-index: -2;
       box-shadow: 5px 5px 10px #00000020;
-}
-.top_ana_top_lst{
       overflow: hidden;
 }
+/* .top_ana_top_lst{
+} */
 .top_ana_top_lst_txt{
       font-size: 2.8rem;
       line-height: 1.5;
